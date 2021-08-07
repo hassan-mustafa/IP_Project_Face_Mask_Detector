@@ -1,2 +1,2 @@
 # IP_Project_Face_Mask_Detector
-# CNN model usd to recoginzie 
+## NN deep learning model for mask detection implemented using Tensorflow and Keras.
